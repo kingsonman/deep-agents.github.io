@@ -17,5 +17,5 @@ Come over to USC and find us.
 
 ### Special Thanks To ###
 
-* [Youngwoon Lee]mailto:lee504@usc.edu)
+* [Youngwoon Lee](mailto:lee504@usc.edu)
 * [Joseph Lim](mailto:jjlim@usc.edu)
