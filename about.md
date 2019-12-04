@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+* Tim Aris [mailto:taris@usc.edu]
+* Siwat Herabat [mailto:herabat@usc.edu]
+* Kingson Man [mailto:kman@usc.edu]
+* Ankith Mohan [mailto:ankithmo@usc.edu]
+* Micheal Swan [mailto:rmswan@usc.edu]
+* Yulun Zhang [mailto:yulunzha@usc.edu]
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Come over to USC and find us.
 
-### Contact me
+### Special Thanks To ###
 
-[email@domain.com](mailto:email@domain.com)
+* Youngwoon Lee [mailto:lee504@usc.edu]
+* Joseph Lim [mailto:jjlim@usc.edu]
