@@ -1,6 +1,6 @@
 # Deep Agent Blog
 
-This repository serves as a blog publisher for the Deep Agents team.
+This repository serves as a blog publisher for the Deep Agents team. The blog is accessible at: https://deep-agents.github.io/
 
 
 ## Resources Used
