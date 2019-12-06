@@ -6,8 +6,10 @@ This repository serves as a blog publisher for the Deep Agents team. The blog is
 ## Resources Used
 
 [How to make your own github page like this](https://github.com/barryclark/jekyll-now)
+
 [Table of contents on github page](https://github.com/allejo/jekyll-toc)
-[**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
+
+[Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 
 ## Quick Start
 
